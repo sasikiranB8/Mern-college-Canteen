@@ -198,5 +198,5 @@ Multi-admin access with role hierarchy
 
 👨‍💻 Author
 
-Dinesh Jogala
+SasiKiran Simma
 📌 MERN Developer | Problem Solver | Open Source Contributor
