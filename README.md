@@ -152,7 +152,7 @@ Debouncing for search optimization
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
-git clone https://github.com/Dineshjogala7/Mern-college-Canteen.git
+git clone https://github.com/sasikiranB8/Mern-college-Canteen
 cd Mern-college-Canteen
 
 2️⃣ Backend Setup
